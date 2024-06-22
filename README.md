@@ -1,3 +1,3 @@
-# Data Portfolio
+#  Data Portfolio
 
-this is my portfolio website
+this is Sampson Nwabuko's portfolio website
