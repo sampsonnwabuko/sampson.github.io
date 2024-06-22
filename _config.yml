@@ -1,7 +1,7 @@
-title: Octocat's homepage
+title: Sampson's homepage
 description: Bookmark this to keep an eye on my project updates!
 logo: assets/images/IMG_3948.jpg
-show_downloads:True
+show_donwloads:True
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
